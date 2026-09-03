@@ -1,167 +1,318 @@
-<!-- ======================= HERO / LANDING ======================= -->
-<img width="1400" height="349" alt="1771520191158" src="https://github.com/user-attachments/assets/5a5308dd-39f1-4cd1-aecc-52708a112e07" />
+<!-- ========================================================= -->
+<!--                    HERO / IDENTITY                         -->
+<!-- ========================================================= -->
 
 <p align="center">
-  「静かに成長する」 ✦ Building quietly, improving consistently
+  <img
+    src="https://github.com/user-attachments/assets/5a5308dd-39f1-4cd1-aecc-52708a112e07"
+    width="100%"
+    alt="M. Dzul'Arsyil Aziz — Front-End Developer & UI/UX Designer"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=42A5F5&center=true&vCenter=true&lines=Design+%E2%9C%95+Code+%E2%9C%95+Growth;User-Centered+Thinking;Consistency+as+a+System" />
-</p>
-
----
-
-<!-- ======================= QUICK SNAPSHOT ======================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20UI%2FUX-1565C0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-JLPT%20N5-42A5F5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Discipline-Daily%20Progress-0D47A1?style=for-the-badge"/>
-</p>
-
----
-
-<!-- ======================= IDENTITY ======================= -->
-## ✦ 「Identity」
-
-<p align="center">
-<b>Front-End Developer</b> ✧ <b>UI/UX Designer</b> ✧ <b>Japanese Learner 🇯🇵</b>
+  <b>「静かに成長する」</b>
+  <br/>
+  <sub>Building quietly · Improving consistently · Creating intentionally</sub>
 </p>
 
 <p align="center">
-I build <b>user-centered digital products</b><br/>
-through clean interfaces and structured front-end systems.
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=2800&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Design+%C3%97+Code+%C3%97+User+Experience;Building+digital+products+with+intention;Learning+Japanese+%E2%9C%8C%EF%B8%8F"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
-<i>「Design is logic. Elegance is the result.」</i>
+  <a href="https://github.com/DzulArsyil">
+    <img src="https://img.shields.io/github/followers/DzulArsyil?style=flat-square&logo=github&label=Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DzulArsyil&style=flat-square&label=Profile+Views" />
+  <a href="https://github.com/DzulArsyil?tab=repositories">
+    <img src="https://img.shields.io/github/stars/DzulArsyil?style=flat-square&logo=github&label=Stars" />
+  </a>
 </p>
 
 ---
 
-<!-- ======================= STATS ======================= -->
-## ✧ 「System Analytics」
+## ✦ 「About Me」
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArsyilAziz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsyilAziz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/>
+  <b>I design interfaces.<br/>
+  I build experiences.<br/>
+  I learn by shipping.</b>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArsyilAziz&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
+I'm **M. Dzul'Arsyil Aziz**, a developer and designer focused on building
+clean, user-centered digital products.
 
----
-
-<!-- ======================= SKILLS ======================= -->
-## ✦ 「Craft & Tools」
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,figma,git,github,unity" />
-</p>
-
-<p align="center">
-「Tools are extensions of thought」
-</p>
-
----
-
-<!-- ======================= CURRENT STATUS ======================= -->
-## ✧ 「System Status」
+My work sits between **UI/UX Design** and **Front-End Development** —
+turning ideas and user problems into interfaces that are both functional
+and visually intentional.
 
 ```txt
-Status        : Active
-Focus         : Front-End Development + UI/UX
-Learning      : Japanese (JLPT N5) | Game Dev Basics
-Consistency   : Daily Progress Mode
-````
+ROLE
+├── UI/UX Designer
+├── Front-End Developer
+└── Creative Technologist
 
----
+CURRENTLY
+├── Building digital products
+├── Improving Front-End skills
+├── Exploring Game Development
+└── Learning Japanese 🇯🇵
 
-<!-- ======================= JOURNEY ======================= -->
-
-## ✦ 「Progress Path」
-
-```txt
-[ Design Thinking ] ━━━━●━━━━━━ [ UI/UX Execution ]
-                         ┃
-                         ┣━━━●━━━ [ Front-End Development ]
-                         ┃
-                         ┗━━━○━━━ [ Game Development ]
+DESIGN PHILOSOPHY
+└── 「Design is logic. Elegance is the result.」
 ```
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
+## ✧ 「Design × Code」
 
-## ✧ 「Selected Works」
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  ✦ Coming Soon ✦
+### 🎨 UI/UX Design
+
+- User-centered design
+- Information architecture
+- Wireframing
+- Design systems
+- Responsive interface design
+- Prototyping
+- Visual hierarchy
+- Interaction design
+
+**Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,illustrator,canva" />
 </p>
 
-* 💰 Personal Finance Web App
-* 🇯🇵 JLPT Learning App
+</td>
+<td width="50%" valign="top">
+
+### 💻 Front-End Development
+
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+- Tailwind CSS
+- Responsive development
+- Component architecture
+
+**Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,vite,git,github" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><i>「Tools are extensions of thought.」</i></p>
+
+---
+
+## 📡 「Live Development System」
 
 <p align="center">
-  <i>「Work in progress — built with intention」</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArsyilAziz&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsyilAziz&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArsyilAziz&theme=transparent&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <sub>Live data generated from GitHub activity.</sub>
 </p>
 
 ---
 
-<!-- ======================= DISCIPLINE ======================= -->
+## 🌊 「Contribution Flow」
 
-## ✦ 「Daily Discipline」
-
-* 💻 Code consistently
-* 🎨 Design with intention
-* 🇯🇵 Study Japanese daily
-* 📈 Improve 1% every day
-
-> 継続は力なり
-> Consistency builds strength
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DzulArsyil&bg_color=00000000&hide_border=true&area=true&custom_title=Development%20Activity"
+    width="100%"
+    alt="GitHub development activity graph"
+  />
+</p>
 
 ---
 
-<!-- ======================= PHILOSOPHY ======================= -->
+## 🐍 「Contribution Journey」
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzulArsyil/DzulArsyil/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzulArsyil/DzulArsyil/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/DzulArsyil/DzulArsyil/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Every contribution becomes part of the journey.</sub>
+</p>
+
+---
+
+## 🧊 「3D Contribution Calendar」
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="Animated 3D GitHub contribution calendar"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <sub>Generated automatically from GitHub contributions.</sub>
+</p>
+
+---
+
+## ⚙️ 「Progress Engine」
+
+```txt
+          ┌─────────────────────────┐
+          │      BUILD SOMETHING     │
+          └────────────┬────────────┘
+                       ↓
+                ┌──────────────┐
+                │   WRITE CODE │
+                └──────┬───────┘
+                       ↓
+              ┌──────────────────┐
+              │  SHIP & ITERATE  │
+              └────────┬─────────┘
+                       ↓
+                ┌────────────┐
+                │   REFLECT  │
+                └─────┬──────┘
+                      ↓
+                   IMPROVE
+                      │
+                      └────────────────↻
+```
+
+### Current Focus
+
+| Area | Direction |
+|---|---|
+| 🎨 UI/UX | Design systems · UX thinking · Visual design |
+| 💻 Front-End | React · TypeScript · Responsive UI |
+| 🧠 Product | User-centered digital products |
+| 🎮 Game Dev | Exploring Unity & interactive experiences |
+| 🇯🇵 Japanese | Continuous learning |
+
+---
+
+## 🚀 「Selected Works」
+
+### 🏪 Kedai APA
+
+Modern web experience for a local food & catering business.
+
+**Focus:** Business website · UX · Responsive UI · WhatsApp ordering
+
+→ [View Repository](https://github.com/DzulArsyil/KedaiAPA)
+
+### 💰 Personal Finance Web App
+
+A web experience focused on helping users understand and manage their
+financial activity.
+
+**Focus:** UI/UX · Dashboard · Data visualization · Web development
+
+### 🇯🇵 JLPT Learning App
+
+A Japanese learning concept designed around vocabulary, kanji,
+and structured learning experiences.
+
+**Focus:** UX · Learning experience · Japanese interface
+
+<p align="center">
+  <a href="https://github.com/DzulArsyil?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Projects-1565C0?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 「Achievements」
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DzulArsyil&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub trophies" />
+</p>
+
+---
+
+## 📚 「Learning Log」
+
+```txt
+2026
+│
+├── Front-End Development
+│   ├── React
+│   ├── TypeScript
+│   └── Modern UI implementation
+│
+├── UI/UX Design
+│   ├── Design systems
+│   ├── UX thinking
+│   └── Product design
+│
+├── Japanese 🇯🇵
+│   └── JLPT preparation
+│
+└── Game Development 🎮
+    └── Unity exploration
+```
+
+<p align="center"><i>Learning isn't a phase. It's the system.</i></p>
+
+---
 
 ## ✧ 「Philosophy」
 
-> 「改善・Kaizen」
+> **「改善 · Kaizen」**
 
-Design is logic.
-Elegance is the result.
+Small improvements compound.
+
+I believe good design is not only about making something beautiful,
+and good code is not only about making something work.
+
+The goal is to create something that is:
+
+**Useful · Understandable · Consistent · Human**
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
-
-## ✦ 「Connect」
+## 🌐 「Connect」
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdzularsyilaziz">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://instagram.com/designwithdzul">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  <a href="https://tiktok.com/@designwithdzul">
-    <img src="https://img.icons8.com/color/48/tiktok--v1.png" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/@designwithdzul">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" height="40"/>
-  </a>
-  <a href="mailto:mdzularsyilaziz@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mdzularsyilaziz"><img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/designwithdzul"><img src="https://img.shields.io/badge/Instagram-42A5F5?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@designwithdzul"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@designwithdzul"><img src="https://img.shields.io/badge/YouTube-0D47A1?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:mdzularsyilaziz@gmail.com"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- ======================= FOOTER ======================= -->
-
 <p align="center">
-  ✦ Still learning ✦ Still building ✦ Still evolving ✦
+  <b>「静かに作る。継続して学ぶ。少しずつ良くする。」</b>
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=14&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Still+learning.;Still+building.;Still+evolving.;One+commit+at+a+time." alt="Footer animation" />
+  <br/><br/>
+  <sub>© M. Dzul'Arsyil Aziz · Built with curiosity & consistency</sub>
 </p>
-
----
-```
