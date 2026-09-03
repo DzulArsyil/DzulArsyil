@@ -6,16 +6,8 @@
 </p>
 
 <p align="center"><b>「静かに成長する」</b><br/><sub>Building quietly · Improving consistently · Creating intentionally</sub></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=2800&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Design+%C3%97+Code+%C3%97+User+Experience;Building+digital+products+with+intention;Learning+Japanese+%E2%9C%8C%EF%B8%8F" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/DzulArsyil"><img src="https://img.shields.io/github/followers/DzulArsyil?style=flat-square&logo=github&label=Followers" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=DzulArsyil&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <a href="https://github.com/DzulArsyil?tab=repositories"><img src="https://img.shields.io/github/stars/DzulArsyil?style=flat-square&logo=github&label=Stars" alt="GitHub stars" /></a>
-</p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=2800&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Front-End+Developer;UI%2FUX+Designer;Design+%C3%97+Code+%C3%97+User+Experience;Building+digital+products+with+intention;Learning+Japanese+%E2%9C%8C%EF%B8%8F" alt="Typing animation" /></p>
+<p align="center"><a href="https://github.com/DzulArsyil"><img src="https://img.shields.io/github/followers/DzulArsyil?style=flat-square&logo=github&label=Followers" alt="GitHub followers" /></a> <img src="https://komarev.com/ghpvc/?username=DzulArsyil&style=flat-square&label=Profile+Views" alt="Profile views" /> <a href="https://github.com/DzulArsyil?tab=repositories"><img src="https://img.shields.io/github/stars/DzulArsyil?style=flat-square&logo=github&label=Stars" alt="GitHub stars" /></a></p>
 
 ---
 
@@ -42,9 +34,7 @@ CURRENTLY
 ---
 
 ## ✧ 「Design × Code」
-<table>
-<tr>
-<td width="50%" valign="top">
+<table><tr><td width="50%" valign="top">
 
 ### 🎨 UI/UX Design
 - User-centered design
@@ -56,8 +46,7 @@ CURRENTLY
 - Interaction design
 
 <p><img src="https://skillicons.dev/icons?i=figma,illustrator,canva" alt="UI UX design tools" /></p>
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
 ### 💻 Front-End Development
 - HTML · CSS · JavaScript
@@ -68,10 +57,7 @@ CURRENTLY
 - Git & GitHub
 
 <p><img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,vite,git,github" alt="Front-end development tools" /></p>
-</td>
-</tr>
-</table>
-
+</td></tr></table>
 <p align="center"><i>「Tools are extensions of thought.」</i></p>
 
 ---
@@ -79,38 +65,27 @@ CURRENTLY
 ## 📊 「Live Development System」
 
 <p align="center">
-  <img src="./assets/github-stats.svg" height="165" alt="GitHub statistics" />
-  <img src="./assets/top-langs.svg" height="165" alt="Most used programming languages" />
+  <img src="./assets/github-stats.svg" height="230" alt="Live GitHub development statistics" />
+  <img src="./assets/top-langs.svg" height="230" alt="Most used programming languages" />
 </p>
-
-<p align="center"><sub>Generated automatically from GitHub activity.</sub></p>
+<p align="center"><sub>Self-hosted SVG · metrics regenerated automatically from GitHub.</sub></p>
 
 ---
 
 ## 🌊 「Contribution Flow」
-<p align="center">
-  <img src="./assets/contribution-flow.svg" width="100%" alt="Animated GitHub contribution flow" />
-</p>
-<p align="center"><sub>Self-hosted SVG · refreshed automatically by GitHub Actions.</sub></p>
+<p align="center"><img src="./assets/contribution-flow.svg" width="100%" alt="Animated GitHub contribution flow" /></p>
+<p align="center"><sub>Self-hosted SVG · contribution data refreshed automatically.</sub></p>
 
 ---
 
 ## 🐍 「Contribution Journey」
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzulArsyil/DzulArsyil/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzulArsyil/DzulArsyil/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/DzulArsyil/DzulArsyil/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
-  </picture>
-</p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DzulArsyil/DzulArsyil/output/github-contribution-grid-snake-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DzulArsyil/DzulArsyil/output/github-contribution-grid-snake.svg"/><img src="https://raw.githubusercontent.com/DzulArsyil/DzulArsyil/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/></picture></p>
 <p align="center"><sub>Every contribution becomes part of the journey.</sub></p>
 
 ---
 
 ## 🧊 「3D Contribution Calendar」
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D GitHub contribution calendar" />
-</p>
+<p align="center"><img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D GitHub contribution calendar" /></p>
 <p align="center"><sub>Generated automatically from GitHub contributions.</sub></p>
 
 ---
@@ -132,7 +107,6 @@ BUILD → WRITE CODE → SHIP → ITERATE → REFLECT → IMPROVE ↻
 ---
 
 ## 🚀 「Selected Projects」
-
 ### 🏪 Kedai APA
 Modern web experience for a local food & catering business.
 
@@ -155,10 +129,8 @@ A Japanese learning concept focused on vocabulary, kanji, and structured learnin
 ---
 
 ## 🏆 「Achievements」
-<p align="center">
-  <img src="./assets/trophy.svg" width="100%" alt="GitHub trophies" />
-</p>
-<p align="center"><sub>Generated automatically from GitHub activity.</sub></p>
+<p align="center"><img src="./assets/achievements.svg" width="100%" alt="Automatically updated GitHub achievement board" /></p>
+<p align="center"><sub>Verified public GitHub metrics · updated automatically.</sub></p>
 
 ---
 
@@ -182,7 +154,6 @@ A Japanese learning concept focused on vocabulary, kanji, and structured learnin
 └── Game Development 🎮
     └── Unity exploration
 ```
-
 <p align="center"><i>Learning isn't a phase. It's the system.</i></p>
 
 ---
@@ -197,13 +168,7 @@ Design is logic. Elegance is the result.
 ---
 
 ## 🌐 「Connect」
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdzularsyilaziz"><img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/designwithdzul"><img src="https://img.shields.io/badge/Instagram-42A5F5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@designwithdzul"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.youtube.com/@designwithdzul"><img src="https://img.shields.io/badge/YouTube-0D47A1?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:mdzularsyilaziz@gmail.com"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/mdzularsyilaziz"><img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://instagram.com/designwithdzul"><img src="https://img.shields.io/badge/Instagram-42A5F5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://tiktok.com/@designwithdzul"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a> <a href="https://www.youtube.com/@designwithdzul"><img src="https://img.shields.io/badge/YouTube-0D47A1?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="mailto:mdzularsyilaziz@gmail.com"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 ---
 <p align="center"><b>「静かに作る。継続して学ぶ。少しずつ良くする。」</b><br/><br/><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=14&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Still+learning.;Still+building.;Still+evolving.;One+commit+at+a+time." alt="Footer animation" /><br/><br/><sub>© M. Dzul'Arsyil Aziz · Built with curiosity & consistency</sub></p>
